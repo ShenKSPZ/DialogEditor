@@ -1,4 +1,5 @@
 # PlayText
+A dialogue node editor for Unity
 ## English
 More video tutorial on the way. Using the guideline first. 
 
