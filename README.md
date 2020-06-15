@@ -1,5 +1,6 @@
 # PlayText
-A dialogue node editor for Unity
+A dialogue node editor for Unity.
+一个适用于Unity的对话台词节点编辑器
 ## English
 More video tutorial on the way. Using the guideline first. 
 
