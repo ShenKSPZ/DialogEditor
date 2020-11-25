@@ -6,6 +6,8 @@ A dialogue node editor for Unity.
 ## English
 Here is a video tutorial about the camera and event node: https://youtu.be/MC3xBnLVmJk
 
+Also don't forget to check wiki. 
+
 To report bug and give advise at Issues. 
 
 Download it here: 
@@ -13,6 +15,8 @@ http://u3d.as/1USu
 
 ## 中文
 完整视频教程在此：https://www.gcores.com/articles/127393
+
+别忘了去看看维基
 
 请在Issues中反馈bug和提出建议
 
