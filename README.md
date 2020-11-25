@@ -16,7 +16,7 @@ http://u3d.as/1USu
 ## 中文
 完整视频教程在此：https://www.gcores.com/articles/127393
 
-别忘了去看看维基
+别忘了去看看wiki页面
 
 请在Issues中反馈bug和提出建议
 
